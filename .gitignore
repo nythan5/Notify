@@ -4,3 +4,4 @@ __pycache__/
 
 # Ignorar o ambiente virtual (se estiver no mesmo diretório do projeto)
 venv/
+.env
